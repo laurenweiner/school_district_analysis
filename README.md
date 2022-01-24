@@ -1,4 +1,5 @@
 # school_district_analysis
+GW Data Analytics Bootcamp - Module 4: Pandas
 
 ## Overview
 The purpose of this analysis was to understand trends in student performance based on school size, type, and budget. Since we were working such a large sum of data, we paid special attention to ensuring the data was cleaned properly. Additionally, when dealing with highly sensitive data such as student's names and school spending, it is important to ensure the data is as accurate as possible.
